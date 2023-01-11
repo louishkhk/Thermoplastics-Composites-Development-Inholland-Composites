@@ -52,16 +52,4 @@ void loop() {
     digitalWrite(RelayLower, LOW); //on
   }
   delay(5000);
-  // digitalWrite(RelayUpper, LOW);
-  // digitalWrite(RelayLower, HIGH);
-  // delay(5000);
-  // digitalWrite(RelayUpper, HIGH);
-  // digitalWrite(RelayLower, LOW);
-  // delay(5000);
-  // digitalWrite(RelayUpper, HIGH);
-  // digitalWrite(RelayLower, HIGH);
-  // delay(5000);
-  // digitalWrite(RelayUpper, LOW);
-  // digitalWrite(RelayLower, LOW);
-  // delay(5000);
 }
